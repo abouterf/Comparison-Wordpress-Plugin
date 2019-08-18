@@ -1,0 +1,37 @@
+select {
+    width: 100%;
+}
+
+.row{
+    margin-top: 5px;
+}
+
+
+.text-center{
+    margin-top: 20px;
+}
+
+.info-heading {
+    margin: 0;
+}
+
+.info-head{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.col-left,.col-right{
+    width: 50%;
+}
+
+.col-left{
+    border-right: 1px solid #dee2e6;
+}
+
+#Div2,#Div1 {
+	background-image: url(https://nim-clutch.ir/wp-content/plugins/comparison/assets/img/loading.gif);
+
+	background-repeat: no-repeat;
+
+	background-position: center;
+}
